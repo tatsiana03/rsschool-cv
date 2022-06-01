@@ -1,2 +1,2 @@
 # rsschool-cv
-init feat
+init feat cv
