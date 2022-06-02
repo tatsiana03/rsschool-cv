@@ -17,6 +17,6 @@ describe("Multiply", () => {
 });
 ```
 ## Languages:
-Belarusian - native
-Russian - fluent
-Enflish - Upper Intermediate
+Belarusian - native  
+Russian - fluent  
+English - Upper Intermediate  
