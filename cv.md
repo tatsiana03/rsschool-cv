@@ -1,10 +1,10 @@
 # Tatsiana H  
-**Contacts**  
+## Contacts  
 **Phone** +375291111111  
 **Email** tatsianavg@gmail.com  
-**Skills and experience**
+## Skills and experience
 Git (basic), word, excel  
-**Code example**  
+## Code example  
 ```const assert = require("chai").assert;
 describe("Multiply", () => {
   it("fixed tests", () => {
