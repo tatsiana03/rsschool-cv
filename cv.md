@@ -1,7 +1,8 @@
 # Tatsiana H  
 ## Contacts  
-**Phone** +375291111111  
-**Email** tatsianavg@gmail.com  
+**Phone:** +375291111111  
+**Email:** tatsianavg@gmail.com  
+**Discord:** tatsiana#8139  
 ## Skills and experience
 Git (basic), word, excel  
 ## Code example  
