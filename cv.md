@@ -20,4 +20,4 @@ describe("Multiply", () => {
 Belarusian - native  
 Russian - fluent  
 English - Upper Intermediate  
-!(/certificate_76.png)  
+![](certificate_76.png)  
